@@ -1,4 +1,4 @@
-.header__lang-link_lang_en {
+.header__link_lang_en {
     color: white;
     text-decoration: none;
     font-size: 24px;
@@ -8,16 +8,16 @@
     transition: opacity .5s ease-in-out;
 }
 
-.header__lang-link_lang_en:visited {
+.header__link_lang_en:visited {
     color: white;
 }
 
-.header__lang-link_lang_en:hover {
+.header__link_lang_en:hover {
     opacity: .5;
 }
 
 @media (max-width: 480px) {
-    .header__lang-link_lang_en {
+    .header__link_lang_en {
         font-size: 18px;
         line-height: 20px;
     }
