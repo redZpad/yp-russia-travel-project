@@ -3,8 +3,8 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
-@import url(../blocks/header/__lang-link/_lang/header__lang-link_lang_ru.css);
-@import url(../blocks/header/__lang-link/_lang/header__lang-link_lang_en.css);
+@import url(../blocks/header/__link/_lang/header__lang-link_lang_ru.css);
+@import url(../blocks/header/__link/_lang/header__lang-link_lang_en.css);
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__map/lead__map.css);
 @import url(../blocks/lead/__title/lead__title.css);
