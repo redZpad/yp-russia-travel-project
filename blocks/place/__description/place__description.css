@@ -1,3 +1,9 @@
 .place__description {
     grid-area: paragraph;
 }
+
+@media (max-width: 480px) {
+    .place__description {
+        margin-left: 16px;
+    }
+}

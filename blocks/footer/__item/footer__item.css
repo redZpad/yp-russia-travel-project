@@ -6,4 +6,9 @@
     .footer__item{
         margin: 32px 0 0 0; 
     }
+
+    .footer__item:first-child {
+        margin: 0;
+    }
 }
+
