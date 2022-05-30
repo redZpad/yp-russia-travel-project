@@ -2,3 +2,9 @@
     grid-area: url;
     align-self: flex-end;
 }
+
+@media (max-width: 480px) {
+    .place__url {
+        margin-left: 16px;
+    }
+}
