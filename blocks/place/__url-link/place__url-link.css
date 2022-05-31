@@ -4,7 +4,8 @@
     font-weight: normal;
     line-height: 22px;
     text-align: left;
-    transition: color .5s ease-in-out;
+    opacity: 1;
+    transition: opacity .5s ease-in-out;
 }
 
 .place__url-link:visited {
@@ -12,5 +13,5 @@
 }
 
 .place__url-link:hover {
-    color: #AAAAAA;
+    opacity: .8;
 }
