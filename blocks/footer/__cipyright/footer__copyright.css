@@ -4,6 +4,7 @@
     font-weight: normal;
     line-height: 16px;
     text-align: right;
+    margin: 0;
 }
 
 @media (max-width: 740px) {
