@@ -6,10 +6,15 @@
     line-height: 18px;
     text-align: left;
     opacity: 1;
+    transition: opacity .5s ease-in-out;
 }
 
 .footer__link:visited {
     color: white;
+}
+
+.footer__link:hover {
+    opacity: .8;
 }
 
 @media (max-width: 740px) {
